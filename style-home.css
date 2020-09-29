@@ -1,0 +1,32 @@
+footer{
+    font-style: italic ;
+    color: rgb(19, 17, 1);
+}
+
+h1{
+    color: rgb(73, 4, 233);
+    text-align: center;
+}
+address{
+    font-style: unset;
+    color: rgb(236, 132, 13);
+}
+body{
+    background-color: antiquewhite; 
+}
+
+body {
+    text-align: center; font-size: 1.75pc;
+    color: darkgray
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+    ;
+}
+
+
+body {
+
+    background-image: url(../images/prime.png);
+    img opacity: 0.5pc;
+    
+}
